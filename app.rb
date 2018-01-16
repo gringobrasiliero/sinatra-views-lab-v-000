@@ -8,6 +8,5 @@ get '/hello' do
 	erb :hello
 end
 
-end
 
 end
